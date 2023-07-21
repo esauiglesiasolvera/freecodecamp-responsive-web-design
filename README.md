@@ -25,7 +25,7 @@ The Web Design Course is divided into several modules, each focusing on specific
 8. **Responsive Web Design Projects**: Put your skills to the test by completing a series of projects that demonstrate your understanding of responsive web design and its principles.
 
 <h2>
-How It's Made:
+How It's been made:
 </h2>
 
 <h3>Each project has a specific lesson designed to illustrate common practices in CSS & HTML. </h3>
@@ -56,10 +56,4 @@ How It's Made:
 <p>03.15.2023: Build Personal Portfolio</p>
 <p>03.15.2023: (New) Responsive Web Design Certification</p>
 
-
-<ul>
-   <li> 
-	FreeCodeCamp JavaScript Algorithms and Data Structures Ceertification Course <a href="https://github.com/leannekeenan/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course"> https://github.com/leannekeenan/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification-Course </a>
-   </li>
-</ul>
 
