@@ -50,14 +50,13 @@ How It's been made:
 <p> 15. Learn CSS Variables by Building a City Skyline</p>
 <p> 16. Learn CSS Grid by Building a Magazine</p>
 <p> 17. Certifiation Project: Product Landing Page</p>
+<p> 18. Learn CSS Animation by Building a Ferris Wheel</p>
+<p> 19. Learn CSS Transforms by Building a Penguin</p>
+<p> 20. Build Personal Portfolio</p>
+<p> 21. (New) Responsive Web Design Certification</p>
 
 <h2>
 Certificate
 </h2>
-
-<p>03.12.2023: Learn CSS Animation by Building a Ferris Wheel</p>
-<p>03.14.2023: Learn CSS Transforms by Building a Penguin</p>
-<p>03.15.2023: Build Personal Portfolio</p>
-<p>03.15.2023: (New) Responsive Web Design Certification</p>
 
 
