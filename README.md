@@ -1,22 +1,28 @@
 <h1 align="center">Free Code Camp Certification: Responsive Web Design</h1>
 
 <p>
-The freeCodeCamp web design certification is a program that teaches you the fundamentals of 
-web design, including HTML, CSS, and responsive design. The program also covers topics such 
-as design principles, typography, and color theory. To earn the certification, you must 
-complete a series of projects that demonstrate your understanding of these concepts. 
-These projects include building responsive websites, creating visual designs, and debugging 
-code. 
+FreeCodeCamp's Web Design Course is a comprehensive and hands-on learning path designed to teach you the fundamental concepts and skills required to become a proficient web developer. Whether you are a beginner or already have some coding experience, this course will take you through the essentials of front-end web development.
 </p>
 
-<span>
-To get started on your owncertification, visti here: <a href="https://www.freecodecamp.org/">
-https://www.freecodecamp.org/</a>
-</span>
+## Course Overview
 
-<p align="center">
-<img src="https://i.ibb.co/1G19TKD/New-Responsive-Web-Design-Certification.png" alt="certificate">
-</p>
+The Web Design Course is divided into several modules, each focusing on specific aspects of web development. These modules include:
+
+1. **Basic HTML and HTML5**: Learn the foundational structure of web pages using HTML and HTML5 elements to create well-structured content.
+
+2. **Basic CSS**: Dive into CSS to style your web pages, control layout, and add beautiful visual effects.
+
+3. **Applied Visual Design**: Explore design principles, animations, and how to create visually appealing web interfaces.
+
+4. **Applied Accessibility**: Learn to create inclusive web applications that are accessible to all users, including those with disabilities.
+
+5. **Responsive Web Design Principles**: Discover how to make web pages responsive, adapting to different screen sizes and devices.
+
+6. **CSS Flexbox**: Master the Flexbox layout model, allowing you to create flexible and responsive layouts with ease.
+
+7. **CSS Grid**: Dive into the CSS Grid layout system, providing powerful control over the arrangement of elements on a web page.
+
+8. **Responsive Web Design Projects**: Put your skills to the test by completing a series of projects that demonstrate your understanding of responsive web design and its principles.
 
 <h2>
 How It's Made:
@@ -50,29 +56,6 @@ How It's Made:
 <p>03.15.2023: Build Personal Portfolio</p>
 <p>03.15.2023: (New) Responsive Web Design Certification</p>
 
-
-<h2>
-Lessons Learned:
-</h2>
-
-<ol>
-     <li>Basic HTML and HTML5</li>
-     <li>Basic CSS</li>
-     <li>Applied Visual Design</li>
-     <li>Applied Accessibility</li>
-     <li>Responsive Web Design Principles</li>
-     <li>CSS Flexbox</li>
-     <li>CSS Grid</li>
-     <li>Responsive Web Design Projects</li>     
-</ol>
-
-<h2>
-Examples:
-</h2>
-
-<p>
-Projects I have worked on similar to this include:
-</p>
 
 <ul>
    <li> 
