@@ -44,7 +44,7 @@ How It's been made:
 
 <p> 11. Learn More About CSS Pseudo Selectors By Building A Balance Sheet
 <p> 12. Learn Intermediate CSS by Building a Picasso Painting</p>
-<p> 13. Learn Responsive Web Design by Building a Piano, Completed</p>
+<p> 13. Learn Responsive Web Design by Building a Piano</p>
 <p> 14. Certification Project: Technical Documentation Page</p>
 
 <p> 15. Learn CSS Variables by Building a City Skyline</p>
